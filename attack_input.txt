@@ -1,0 +1,6 @@
+0
+http://testphp.vulnweb.com/
+C
+yes
+1
+X

@@ -1,0 +1,6 @@
+{
+  "target_url": "http://testphp.vulnweb.com/",
+  "target_host": "testphp.vulnweb.com",
+  "target_port": "80",
+  "db_type": "MySQL"
+}
